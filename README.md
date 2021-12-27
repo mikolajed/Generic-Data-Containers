@@ -8,4 +8,4 @@ At the moment available structues are:
 
 To be added:
 - hash map
-- map (aving AVL trees)
+- map (using AVL trees)
